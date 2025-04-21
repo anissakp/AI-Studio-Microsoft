@@ -1,5 +1,9 @@
 # AI Studio Project with Microsoft: Time-Series Forecasting of Water Quality Indices
 
+
+![pexels-zelch-30596255](https://github.com/user-attachments/assets/6d472554-5d7a-494d-b4c6-6c2d7f40f827)
+
+
 ## Description
 Microsoft and other technology companies are increasing their investments in computionally expensive AI(i.e. larger data centers). These ata centers consume large quantities of water, prompting Microsoft to make a bold environmental commitment to answer the question; **can we quantitatively forecast future water quality and availability?** This is crucial first step to understanding opportunities to ameilorate environmental conditions. 
 
