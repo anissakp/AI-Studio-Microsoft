@@ -7,10 +7,11 @@ Our project addresses this question by forecasting water quality indices using m
 
 Another goal of this project is **making satellite data more acessible**:
 
-- Accessibility Challenges:
-      While satellite data is publicly available, it is often difficult to access and utilize effectively. 
-- Technical Barriers
-      Organizations that could benefit from platforms like Microsoft Planetary Computer frequently lack the technical expertise needed to analyze satellite data. 
+- **Accessibility Challenges**:  
+  While satellite data is publicly available, it is often difficult to access and utilize effectively.
+
+- **Technical Barriers**:  
+  Organizations that could benefit from platforms like Microsoft Planetary Computer frequently lack the technical expertise needed to analyze satellite data.
 
 
  ## Set-Up Instructions
