@@ -1,9 +1,16 @@
 # AI Studio Project with Microsoft: Time-Series Forecasting of Water Quality Indices
 
 ## Description
-Microsoft and other technology companies are increasing their investments in computionally expensive AI(i.e. larger data centers). These ata centers consume large quantities of water, prompting Microsoft to make a bold environmental commitment to answer the question; can we quantitatively forecast future water quality and availability? This is crucial first step to understanding opportunities to ameilorate environmental conditions. 
+Microsoft and other technology companies are increasing their investments in computionally expensive AI(i.e. larger data centers). These ata centers consume large quantities of water, prompting Microsoft to make a bold environmental commitment to answer the question; **can we quantitatively forecast future water quality and availability?** This is crucial first step to understanding opportunities to ameilorate environmental conditions. 
 
-Our project addresses this question by forecasting water quality indices using machine learning and generative AI techniques. Specifically, we leverage Long Short-Term Memory (LSTM) models and the OpenAI API to generate predictive insights.
+Our project addresses this question by forecasting water quality indices using machine learning and generative AI techniques. Specifically, we leverage Long Short-Term Memory (LSTM) models and the OpenAI API to generate predictive insights. 
+
+Another goal of this project is **making satellite data more acessible**:
+
+- Accessibility Challenges:
+      While satellite data is publicly available, it is often difficult to access and utilize effectively. 
+- Technical Barriers
+      Organizations that could benefit from platforms like Microsoft Planetary Computer frequently lack the technical expertise needed to analyze satellite data. 
 
 
  ## Set-Up Instructions
