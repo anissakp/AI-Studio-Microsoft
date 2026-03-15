@@ -5,7 +5,7 @@
 
 
 ## Description
-Microsoft and other technology companies are increasing their investments in computionally expensive AI(i.e. larger data centers). These ata centers consume large quantities of water, prompting Microsoft to make a bold environmental commitment to answer the question; **can we quantitatively forecast future water quality and availability?** This is crucial first step to understanding opportunities to ameilorate environmental conditions. 
+Microsoft and other technology companies are increasing their investments in computionally expensive AI (e.g., larger data centers). These data centers consume large quantities of water, prompting Microsoft to make a bold environmental commitment to answer the question; **can we quantitatively forecast future water quality and availability?** This is crucial first step to understanding opportunities to ameilorate environmental conditions. 
 
 Our project addresses this question by forecasting water quality indices using machine learning and generative AI techniques. Specifically, we leverage Long Short-Term Memory (LSTM) models and the OpenAI API to generate predictive insights. 
 
